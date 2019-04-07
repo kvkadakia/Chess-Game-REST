@@ -1,0 +1,5 @@
+Hi Karan:
+You have implemented the basic service for the hw and you earned 2.5%. Your documentation omits many details like how you refactored the chess application to make it a service and you provided no tests. Also, you did not create OSv and the docker containers.
+
+Thank you,
+Mark-
